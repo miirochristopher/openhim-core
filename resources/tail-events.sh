@@ -11,7 +11,7 @@ pass=$2;
 server=$3;
 
 if [[ -z $server ]]; then
-    server="https://localhost:8080"
+    server="https://host:8085"
 fi
 
 sync="${server}/heartbeat"
