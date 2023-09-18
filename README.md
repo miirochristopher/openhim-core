@@ -1,4 +1,4 @@
-# OpenHIM Core Component v8.1.1
+# OpenHIM Core Component v8.1.2
 
 The OpenHIM core component is responsible for providing a single entry-point into an HIE as well as providing the following key features:
 
@@ -37,5 +37,5 @@ cd openhim-core
 
 npm install && npm run build
 
-docker build -t hie/openhim-core:v8.1.1 .
+docker build -t hie/openhim-core:v8.1.2 .
 ---
